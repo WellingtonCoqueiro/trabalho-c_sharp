@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Doadores</title>
+  <link rel="stylesheet" href="style-doadores.css" />
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <div class="nav-brand">
+        <svg class="droplet-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/>
+        </svg>
+        <h1>Gestão de Doadores</h1>
+      </div>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="doadores.html" class="active">Doadores</a>
+        <a href="requisitos.html">Requisitos</a>
+      </nav>
+      <button class="mobile-menu-btn" onclick="toggleMobileMenu()">☰</button>
+    </div>
+    <nav class="mobile-nav" id="mobileNav">
+      <a href="index.html">Home</a>
+      <a href="doadores.html">Doadores</a>
+      <a href="requisitos.html">Requisitos</a>
+    </nav>
+  </header>
+
+  <main>
+    <div class="page-header">
+      <h2>Gestão de Doadores</h2>
+      <p>Cadastre e gerencie os doadores de sangue</p>
+    </div>
+
+    <div class="content-grid">
+      <!-- Formulário de Cadastro -->
+      <section class="form-section">
+        <div class="card">
+          <div class="card-header">
+            <h3>👤 Cadastrar Novo Doador</h3>
+            <p>Preencha os dados para cadastrar um novo doador</p>
+          </div>
+          <form id="doadorForm">
+            <div class="form-group">
+              <label for="nome">Nome Completo</label>
+              <input type="text" id="nome" placeholder="Nome do doador" required />
+            </div>
+            <div class="form-group">
+              <label for="tipoSanguineo">Tipo Sanguíneo</label>
+              <input type="text" id="tipoSanguineo" placeholder="Ex: A+, O-, AB+" required />
+            </div>
+            <div class="form-group">
+              <label for="dataUltimaDoacao">Data da Última Doação</label>
+              <input type="date" id="dataUltimaDoacao" required />
+            </div>
+            <button type="submit" class="btn btn-primary">Cadastrar Doador</button>
+          </form>
+        </div>
+      </section>
+
+      <!-- Lista de Doadores -->
+      <section class="table-section">
+        <div class="card">
+          <div class="card-header">
+            <h3>📋 Lista de Doadores</h3>
+            <p>Gerencie os doadores cadastrados no sistema</p>
+          </div>
+          <div class="table-container">
+            <table>
+              <thead>
+                <tr>
+                  <th>ID</th>
+                  <th>Nome</th>
+                  <th>Tipo Sanguíneo</th>
+                  <th>Data Última Doação</th>
+                  <th>Ações</th>
+                </tr>
+              </thead>
+              <tbody id="tabelaDoadores">
+                <tr>
+                  <td colspan="5" class="empty-state">Nenhum doador cadastrado</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <footer>
+    <div class="footer-content">
+      <div class="footer-brand">
+        <svg class="droplet-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/>
+        </svg>
+        <p>&copy; 2025 Banco de Doação de Sangue</p>
+      </div>
+      <div class="footer-links">
+        <a href="#">Política de Privacidade</a>
+        <a href="#">Termos de Uso</a>
+        <a href="#">Contato</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Modal de Confirmação -->
+  <div id="confirmModal" class="modal">
+    <div class="modal-content">
+      <h3>Confirmar exclusão</h3>
+      <p>Tem certeza que deseja excluir este doador? Esta ação não pode ser desfeita.</p>
+      <div class="modal-buttons">
+        <button class="btn btn-outline" onclick="closeModal()">Cancelar</button>
+        <button class="btn btn-danger" onclick="confirmDelete()">Excluir</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div id="toast" class="toast">
+    <span id="toastMessage"></span>
+  </div>
+
+  <script src="script-doadores.js"></script>
+</body>
+</html>

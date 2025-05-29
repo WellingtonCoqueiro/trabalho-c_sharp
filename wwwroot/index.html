@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Doação de Sangue - Home</title>
+  <link rel="stylesheet" href="style-home.css" />
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <div class="nav-brand">
+        <svg class="droplet-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/>
+        </svg>
+        <h1>Doação de Sangue</h1>
+      </div>
+      <nav>
+        <a href="index.html" class="active">Home</a>
+        <a href="doadores.html">Doadores</a>
+        <a href="requisitos.html">Requisitos</a>
+      </nav>
+      <button class="mobile-menu-btn" onclick="toggleMobileMenu()">☰</button>
+    </div>
+    <nav class="mobile-nav" id="mobileNav">
+      <a href="index.html">Home</a>
+      <a href="doadores.html">Doadores</a>
+      <a href="requisitos.html">Requisitos</a>
+    </nav>
+  </header>
+
+  <main>
+    <!-- Hero Section -->
+    <section class="hero">
+      <div class="hero-content">
+        <div class="hero-text">
+          <h2>Doe Sangue, <span class="text-accent">Salve Vidas</span></h2>
+          <p>Uma única doação pode salvar até 4 vidas. Junte-se a nós nessa corrente de solidariedade e faça a diferença.</p>
+          <div class="hero-buttons">
+            <a href="doadores.html" class="btn btn-primary">Quero Doar</a>
+            <a href="requisitos.html" class="btn btn-outline">Ver Requisitos</a>
+          </div>
+        </div>
+        <div class="hero-image">
+          <img src="/placeholder.svg?height=300&width=300" alt="Doação de Sangue">
+        </div>
+      </div>
+    </section>
+
+    <!-- Por que doar section -->
+    <section class="why-donate">
+      <h2>Por que doar sangue?</h2>
+      <div class="cards-container">
+        <div class="card">
+          <div class="card-icon">❤️</div>
+          <h3>Salva Vidas</h3>
+          <p>Uma única doação pode salvar até 4 vidas em situações de emergência, cirurgias e tratamentos.</p>
+        </div>
+        <div class="card">
+          <div class="card-icon">👥</div>
+          <h3>Ato de Solidariedade</h3>
+          <p>Doar sangue é um gesto de amor ao próximo que contribui para uma sociedade mais humana e solidária.</p>
+        </div>
+        <div class="card">
+          <div class="card-icon">⏰</div>
+          <h3>Rápido e Seguro</h3>
+          <p>O processo leva apenas 40 minutos e é realizado com total segurança e higiene para o doador.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Benefícios section -->
+    <section class="benefits">
+      <h2>Benefícios da doação</h2>
+      <div class="benefits-content">
+        <div class="benefits-list">
+          <div class="benefit-item">
+            <span class="benefit-icon">🏆</span>
+            <div>
+              <h3>Ajuda a salvar vidas</h3>
+              <p>Sua doação pode ser crucial para pessoas em situações de emergência, cirurgias e tratamentos médicos.</p>
+            </div>
+          </div>
+          <div class="benefit-item">
+            <span class="benefit-icon">🔄</span>
+            <div>
+              <h3>Estimula a produção de novas células sanguíneas</h3>
+              <p>Após a doação, seu corpo é estimulado a produzir novas células sanguíneas, renovando seu sangue.</p>
+            </div>
+          </div>
+          <div class="benefit-item">
+            <span class="benefit-icon">🤝</span>
+            <div>
+              <h3>Contribui para um mundo mais solidário</h3>
+              <p>Seu exemplo inspira outras pessoas a também doarem, fortalecendo a cultura de solidariedade.</p>
+            </div>
+          </div>
+        </div>
+        <div class="benefits-image">
+          <img src="/placeholder.svg?height=250&width=250" alt="Benefícios da doação">
+        </div>
+      </div>
+      <div class="cta-section">
+        <a href="doadores.html" class="btn btn-primary btn-large">Quero me tornar um doador →</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="footer-content">
+      <div class="footer-brand">
+        <svg class="droplet-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/>
+        </svg>
+        <p>&copy; 2025 Banco de Doação de Sangue</p>
+      </div>
+      <div class="footer-links">
+        <a href="#">Política de Privacidade</a>
+        <a href="#">Termos de Uso</a>
+        <a href="#">Contato</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script-home.js"></script>
+</body>
+</html>

@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Requisitos para Doação</title>
+  <link rel="stylesheet" href="style-requisitos.css" />
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <div class="nav-brand">
+        <svg class="droplet-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/>
+        </svg>
+        <h1>Requisitos para Doar Sangue</h1>
+      </div>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="doadores.html">Doadores</a>
+        <a href="requisitos.html" class="active">Requisitos</a>
+      </nav>
+      <button class="mobile-menu-btn" onclick="toggleMobileMenu()">☰</button>
+    </div>
+    <nav class="mobile-nav" id="mobileNav">
+      <a href="index.html">Home</a>
+      <a href="doadores.html">Doadores</a>
+      <a href="requisitos.html">Requisitos</a>
+    </nav>
+  </header>
+
+  <main>
+    <div class="page-header">
+      <h2>Requisitos para Doar Sangue</h2>
+      <p>Confira se você está apto a realizar este gesto de solidariedade</p>
+    </div>
+
+    <!-- Alert Importante -->
+    <div class="alert alert-info">
+      <div class="alert-icon">ℹ️</div>
+      <div>
+        <h3>Importante</h3>
+        <p>Antes de doar, certifique-se de estar bem alimentado e descansado. Leve um documento oficial com foto.</p>
+      </div>
+    </div>
+
+    <!-- Regras Básicas -->
+    <section class="requirements-section">
+      <h2>Regras Básicas</h2>
+      <div class="requirements-grid">
+        <div class="requirement-card">
+          <div class="requirement-icon">✅</div>
+          <div>
+            <h3>Idade</h3>
+            <p>Ter entre 16 e 69 anos (menores precisam de autorização)</p>
+          </div>
+        </div>
+        <div class="requirement-card">
+          <div class="requirement-icon">✅</div>
+          <div>
+            <h3>Peso</h3>
+            <p>Pesar mais de 50kg</p>
+          </div>
+        </div>
+        <div class="requirement-card">
+          <div class="requirement-icon">✅</div>
+          <div>
+            <h3>Saúde</h3>
+            <p>Estar em boas condições de saúde</p>
+          </div>
+        </div>
+        <div class="requirement-card">
+          <div class="requirement-icon">✅</div>
+          <div>
+            <h3>Alimentação</h3>
+            <p>Estar alimentado (evite alimentos gordurosos)</p>
+          </div>
+        </div>
+        <div class="requirement-card">
+          <div class="requirement-icon">✅</div>
+          <div>
+            <h3>Descanso</h3>
+            <p>Ter dormido pelo menos 6 horas nas últimas 24 horas</p>
+          </div>
+        </div>
+        <div class="requirement-card">
+          <div class="requirement-icon">✅</div>
+          <div>
+            <h3>Documentação</h3>
+            <p>Apresentar documento oficial com foto</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Impedimentos Temporários -->
+    <section class="impediments-section">
+      <h2>Impedimentos Temporários</h2>
+      <div class="impediments-list">
+        <div class="impediment-item">
+          <span class="impediment-icon">⚠️</span>
+          <div>
+            <strong>Gripe, resfriado ou febre:</strong> 7 dias após o fim dos sintomas
+          </div>
+        </div>
+        <div class="impediment-item">
+          <span class="impediment-icon">⚠️</span>
+          <div>
+            <strong>Gravidez:</strong> 90 dias após o parto normal e 180 dias após cesariana
+          </div>
+        </div>
+        <div class="impediment-item">
+          <span class="impediment-icon">⚠️</span>
+          <div>
+            <strong>Amamentação:</strong> 12 meses após o parto
+          </div>
+        </div>
+        <div class="impediment-item">
+          <span class="impediment-icon">⚠️</span>
+          <div>
+            <strong>Ingestão de bebida alcoólica:</strong> 12 horas após o consumo
+          </div>
+        </div>
+        <div class="impediment-item">
+          <span class="impediment-icon">⚠️</span>
+          <div>
+            <strong>Tatuagem ou piercing:</strong> 12 meses após o procedimento
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Alert Final -->
+    <div class="alert alert-warning">
+      <div class="alert-icon">⚠️</div>
+      <div>
+        <h3>Atenção</h3>
+        <p>Em caso de dúvidas, entre em contato com o banco de sangue mais próximo. Cada caso é avaliado individualmente pelos profissionais de saúde.</p>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <div class="footer-content">
+      <div class="footer-brand">
+        <svg class="droplet-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/>
+        </svg>
+        <p>&copy; 2025 Banco de Doação de Sangue</p>
+      </div>
+      <div class="footer-links">
+        <a href="#">Política de Privacidade</a>
+        <a href="#">Termos de Uso</a>
+        <a href="#">Contato</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script-requisitos.js"></script>
+</body>
+</html>

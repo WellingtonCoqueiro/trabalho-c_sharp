@@ -1,0 +1,369 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\.gitignore",
+      "PackagePath": "staticwebassets\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\app\\doadores\\page.tsx",
+      "PackagePath": "staticwebassets\\app\\doadores\\page.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\app\\globals.css",
+      "PackagePath": "staticwebassets\\app\\globals.css"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\app\\layout.tsx",
+      "PackagePath": "staticwebassets\\app\\layout.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\app\\page.tsx",
+      "PackagePath": "staticwebassets\\app\\page.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\app\\requisitos\\page.tsx",
+      "PackagePath": "staticwebassets\\app\\requisitos\\page.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components.json",
+      "PackagePath": "staticwebassets\\components.json"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\footer.tsx",
+      "PackagePath": "staticwebassets\\components\\footer.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\navbar.tsx",
+      "PackagePath": "staticwebassets\\components\\navbar.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\theme-provider.tsx",
+      "PackagePath": "staticwebassets\\components\\theme-provider.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\accordion.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\accordion.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\alert-dialog.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\alert-dialog.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\alert.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\alert.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\aspect-ratio.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\aspect-ratio.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\avatar.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\avatar.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\badge.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\badge.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\breadcrumb.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\breadcrumb.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\button.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\button.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\calendar.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\calendar.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\card.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\card.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\carousel.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\carousel.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\chart.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\chart.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\checkbox.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\checkbox.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\collapsible.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\collapsible.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\command.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\command.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\context-menu.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\context-menu.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\dialog.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\dialog.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\drawer.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\drawer.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\dropdown-menu.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\dropdown-menu.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\form.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\form.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\hover-card.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\hover-card.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\input-otp.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\input-otp.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\input.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\input.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\label.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\label.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\menubar.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\menubar.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\navigation-menu.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\navigation-menu.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\pagination.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\pagination.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\popover.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\popover.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\progress.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\progress.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\radio-group.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\radio-group.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\resizable.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\resizable.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\scroll-area.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\scroll-area.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\select.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\select.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\separator.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\separator.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\sheet.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\sheet.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\sidebar.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\sidebar.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\skeleton.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\skeleton.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\slider.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\slider.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\sonner.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\sonner.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\switch.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\switch.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\table.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\table.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\tabs.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\tabs.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\textarea.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\textarea.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\toast.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\toast.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\toaster.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\toaster.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\toggle-group.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\toggle-group.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\toggle.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\toggle.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\tooltip.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\tooltip.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\use-mobile.tsx",
+      "PackagePath": "staticwebassets\\components\\ui\\use-mobile.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\components\\ui\\use-toast.ts",
+      "PackagePath": "staticwebassets\\components\\ui\\use-toast.ts"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\doadores.html",
+      "PackagePath": "staticwebassets\\doadores.html"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\hooks\\use-mobile.tsx",
+      "PackagePath": "staticwebassets\\hooks\\use-mobile.tsx"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\hooks\\use-toast.ts",
+      "PackagePath": "staticwebassets\\hooks\\use-toast.ts"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\lib\\utils.ts",
+      "PackagePath": "staticwebassets\\lib\\utils.ts"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\next.config.mjs",
+      "PackagePath": "staticwebassets\\next.config.mjs"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\package.json",
+      "PackagePath": "staticwebassets\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\pnpm-lock.yaml",
+      "PackagePath": "staticwebassets\\pnpm-lock.yaml"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\postcss.config.mjs",
+      "PackagePath": "staticwebassets\\postcss.config.mjs"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\public\\placeholder-logo.png",
+      "PackagePath": "staticwebassets\\public\\placeholder-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\public\\placeholder-logo.svg",
+      "PackagePath": "staticwebassets\\public\\placeholder-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\public\\placeholder-user.jpg",
+      "PackagePath": "staticwebassets\\public\\placeholder-user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\public\\placeholder.jpg",
+      "PackagePath": "staticwebassets\\public\\placeholder.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\public\\placeholder.svg",
+      "PackagePath": "staticwebassets\\public\\placeholder.svg"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\requisitos.html",
+      "PackagePath": "staticwebassets\\requisitos.html"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\script-doadores.js",
+      "PackagePath": "staticwebassets\\script-doadores.js"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\script-home.js",
+      "PackagePath": "staticwebassets\\script-home.js"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\script-requisitos.js",
+      "PackagePath": "staticwebassets\\script-requisitos.js"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\style-doadores.css",
+      "PackagePath": "staticwebassets\\style-doadores.css"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\style-home.css",
+      "PackagePath": "staticwebassets\\style-home.css"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\style-requisitos.css",
+      "PackagePath": "staticwebassets\\style-requisitos.css"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\styles\\globals.css",
+      "PackagePath": "staticwebassets\\styles\\globals.css"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\tailwind.config.ts",
+      "PackagePath": "staticwebassets\\tailwind.config.ts"
+    },
+    {
+      "Id": "C:\\Users\\ton36\\OneDrive\\Área de Trabalho\\API_C_sharp\\trabalho-c_sharp\\wwwroot\\tsconfig.json",
+      "PackagePath": "staticwebassets\\tsconfig.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DoacaoAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DoacaoAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DoacaoAPI.props",
+      "PackagePath": "build\\DoacaoAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DoacaoAPI.props",
+      "PackagePath": "buildMultiTargeting\\DoacaoAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DoacaoAPI.props",
+      "PackagePath": "buildTransitive\\DoacaoAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
